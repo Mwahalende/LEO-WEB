@@ -12,7 +12,7 @@ margin: auto;
 padding: auto;
 }
 .one{
-max-width: 1240px;
+width: 1240px;
 height:auto ;
 margin: auto;
 background-color: black;
@@ -22,7 +22,7 @@ ul{
 background-color: rgba(0, 0, 0, 0);
 list-style-type: none;
 display: flex;
-max-width: 1200px;
+width: 1200px;
 height: auto;
 padding-top: 2%;
 padding-bottom: 2%;
@@ -46,7 +46,7 @@ z-index: 1;
 }
 .two1{
     background-color: white;
-    max-width: 1200px;
+    width: 1200px;
     height: 400px;
     display: flex;
     margin: auto;
@@ -56,7 +56,7 @@ z-index: 1;
 }
 .tw{
 height: 380px;
-max-width: 300px;
+width: 300px;
 border: 1px solid rgb(174, 169, 169);
 border-radius: 10px;
 margin: 5px;
@@ -68,13 +68,13 @@ text-align: center;
 }
 .tw img{
     height: 340px;
-    max-width: 290px;
+    width: 290px;
     margin: 5px;  
     border-radius: 10px;
 }
 .tw1{
     height: 380px;
-    max-width: 600px;
+    width: 600px;
     border: 1px solid rgb(174, 169, 169);
     border-radius: 10px;
     margin: 5px;
@@ -82,7 +82,7 @@ text-align: center;
     }
 .two2{
         background-color: white;
-        max-width: 1200px;
+        width: 1200px;
         height: 390px;
         position: relative;
         display: flex;
@@ -93,7 +93,7 @@ text-align: center;
     }
     .tw2{
     height: 370px;
-    max-width: 300px;
+    width: 300px;
     border: 1px solid rgb(174, 169, 169);
     border-radius: 10px;
     margin: 3px;
@@ -108,7 +108,7 @@ text-align: center;
     }
     .two3{
         background-color: rgb(16, 37, 195);
-       max-width: 1200px;
+       width: 1200px;
         height: 425px;
         position: relative;
         display: flex;
@@ -129,7 +129,7 @@ text-align: center;
         }
 .tw4{
     height: 410px;
-    max-width: 500px;
+   width: 500px;
     border: 1px solid rgba(174, 169, 169, 0.97);
     border-radius: 10px;
     margin: 5px; 
@@ -137,7 +137,7 @@ text-align: center;
 }
 .tw5{
     height:410px;
-    max-width: 400px;
+    width: 400px;
     border: 1px solid rgba(174, 169, 169, 0.97);
     border-radius: 10px;
     margin: 5px;
@@ -181,7 +181,7 @@ li:hover{
 .tw2 img{
     margin-top: 10px;
     height: 300px;
-    max-width: 290px;
+    width: 290px;
     margin: 5px;  
     border-radius: 10px;
 }
