@@ -2,6 +2,7 @@ body{
 background-color:aqua;
 background-repeat: no-repeat;
 background-size: cover;
+overflow:auto;
 }
 .top{
 height: 1800px;
